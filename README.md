@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Rajabboev
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python for DATA SCIENCE
 - 💞️ I’m looking to collaborate on datastructures
-- 📫 How to reach me : @crazyboycc on telegram
+- 📫 How to reach me : @Anvar1208 on telegram
 
 <!---
 Rajabboev/Rajabboev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
